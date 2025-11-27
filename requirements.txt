@@ -6,6 +6,3 @@ tensorflow
 lightgbm
 matplotlib
 seaborn
-warnings
-re
-mdates
