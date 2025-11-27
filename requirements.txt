@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn
+tensorflow
+lightgbm
+matplotlib
+seaborn
+warnings
+re
+mdates
